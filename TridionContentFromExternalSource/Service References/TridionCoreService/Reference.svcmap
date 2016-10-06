@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8ee208a4-838e-495e-aab3-a2406bb93288" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/webservices/CoreService2013.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CoreService2013.xsd" MetadataType="Schema" ID="c46ab38e-4f32-4456-bef2-85cc0a028f51" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd3" />
+    <MetadataFile FileName="CoreService2013.wsdl" MetadataType="Wsdl" ID="4b485b6f-c835-40da-950f-61725e2aacb1" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?wsdl" />
+    <MetadataFile FileName="CoreService20131.xsd" MetadataType="Schema" ID="4cda2a38-0d92-4754-9826-90bcf0dc67b6" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd2" />
+    <MetadataFile FileName="CoreService20131.wsdl" MetadataType="Wsdl" ID="9130d3cb-47d3-4428-8787-69e42a75938d" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="CoreService20132.xsd" MetadataType="Schema" ID="0da48a96-5021-49ba-afe5-60f1c20c94d3" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd5" />
+    <MetadataFile FileName="CoreService20133.xsd" MetadataType="Schema" ID="f343b011-d4a0-438d-978f-0024bd166a63" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd1" />
+    <MetadataFile FileName="CoreService2013.disco" MetadataType="Disco" ID="f4c17b1f-4002-4f7a-848f-b0f75ddef81e" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?disco" />
+    <MetadataFile FileName="CoreService20134.xsd" MetadataType="Schema" ID="4da97d21-c101-40ce-a215-ba6181043618" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd0" />
+    <MetadataFile FileName="CoreService20135.xsd" MetadataType="Schema" ID="736d3ca5-f903-407d-86ae-4674da0d86ad" SourceId="1" SourceUrl="http://wsv001200.sp15dev.local/webservices/CoreService2013.svc?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

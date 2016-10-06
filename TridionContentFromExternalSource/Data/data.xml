@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Contents>
+	<Content id="1">
+	<header>Google</header>
+	<description>Search Engine</description>
+	<url>https://en.wikipedia.org/wiki/Google_Search</url>
+	</Content>
+	<Content id="2">
+	<header>YouTube</header>
+	<description>Video sharing</description>
+	<url>https://en.wikipedia.org/wiki/YouTube</url>
+	</Content>
+	<Content id="3">
+	<header>Facebook</header>
+	<description>Social network</description>
+	<url>whttps://en.wikipedia.org/wiki/Facebook</url>
+	</Content>
+	<Content id="4">
+	<header>Baidu</header>
+	<description>Search Engine</description>
+	<url>https://en.wikipedia.org/wiki/Baidu</url>
+	</Content>
+	<Content id="5">
+	<header>Yahoo!</header>
+	<description>Search Engine</description>
+	<url>https://en.wikipedia.org/wiki/Yahoo!</url>
+	</Content>
+	<Content id="6">
+	<header>Amazon</header>
+	<description>E-commerce and cloud computing</description>
+	<url>https://en.wikipedia.org/wiki/Amazon.com</url>
+	</Content>
+	<Content id="7">
+	<header>Wikipedia</header>
+	<description>Encyclopedia</description>
+	<url>https://en.wikipedia.org/wiki/Main_Page</url>
+	</Content>
+	<Content id="8">
+	<header>Google India</header>
+	<description>Search Engine India</description>
+	<url>https://www.google.co.in/webhp?hl=en</url>
+	</Content>
+	<Content id="9">
+	<header>Twitter</header>
+	<description>Social network</description>
+	<url>https://en.wikipedia.org/wiki/Twitter</url>
+	</Content>
+	<Content id="10">
+	<header>Windows Live</header>
+	<description>Email, web services and software suite</description>
+	<url>https://en.wikipedia.org/wiki/Windows_Live</url>
+	</Content>
+	<Content id="11">
+	<header>MSN</header>
+	<description>Portal</description>
+	<url>https://en.wikipedia.org/wiki/MSN</url>
+	</Content>
+	<Content id="12">
+	<header>LinkedIn</header>
+	<description>Professional Social network</description>
+	<url>https://en.wikipedia.org/wiki/LinkedIn</url>
+	</Content>
+	<Content id="13">
+	<header>Bing</header>
+	<description>Search engine</description>
+	<url>https://en.wikipedia.org/wiki/Bing</url>
+	</Content>
+	<Content id="14">
+	<header>Instagram</header>
+	<description>Photo sharing and social media</description>
+	<url>https://en.wikipedia.org/wiki/Instagram</url>
+	</Content>
+	<Content id="15">
+	<header>eBay</header>
+	<description>Online auctions and shopping</description>
+	<url>https://en.wikipedia.org/wiki/EBay</url>
+	</Content>
+</Contents>
